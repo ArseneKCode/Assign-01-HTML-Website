@@ -1,0 +1,21 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+h1 {
+    background-color: #034694;
+    color: rgb(243, 243, 243);
+    padding: 40px;
+    text-align: center;
+}
+
+p {
+    background-color: #1d34c9;
+}
+
+h2 {
+    background-color: #ffffff;
+}
