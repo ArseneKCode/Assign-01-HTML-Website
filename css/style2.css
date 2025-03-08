@@ -10,10 +10,10 @@
 }
 
 h1 {
-background-color: #034694;
-color:rgb(243, 243, 243);
-padding: 40px;
-text-align: center;
+    background-color: #034694;
+    color: rgb(243, 243, 243);
+    padding: 40px;
+    text-align: center;
 }
 
 p {
@@ -21,5 +21,4 @@ p {
 }
 
 h2 {
-    background-color: #ffffff;
-}
+    background-color: #ffffff;}
